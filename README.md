@@ -54,15 +54,15 @@ Fuente de datos: Gerencia de Seguridad Vial de Antioquia.
 
 ### Distribución de gravedad de los accidentes
 
-(Imagen pendiente)
+![Gravedad por municipio](imagenes/gravedad_por_municipio.png)
 
 ### Top 10 municipios con más accidentes
 
-(Imagen pendiente)
+![Top 10 municipios](imagenes/top10_municipios.png)
 
 ### Tasa de mortalidad por municipio
 
-(Imagen pendiente)
+![Tasa de mortalidad](imagenes/tasa_mortalidad_antioquia.png)
 
 ## Habilidades demostradas
 
