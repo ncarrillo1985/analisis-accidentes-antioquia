@@ -58,7 +58,7 @@ Fuente de datos: Gerencia de Seguridad Vial de Antioquia.
 
 ### Top 10 municipios con más accidentes
 
-![Top 10 municipios](images/top10_municipios(1).png)
+![Top 10 municipios](images/top10_municipios (1).png)
 
 ### Tasa de mortalidad por municipio
 
