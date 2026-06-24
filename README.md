@@ -10,19 +10,19 @@ Fuente de datos: Gerencia de Seguridad Vial de Antioquia.
 
 ## Herramientas utilizadas
 
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
-- GitHub
+* Python
+* Pandas
+* Matplotlib
+* Google Colab
+* GitHub
 
 ## Preguntas de negocio
 
-- ¿Qué municipios presentan más accidentes?
-- ¿Qué municipios presentan mayor gravedad?
-- ¿Cuál es la tasa de mortalidad por municipio?
-- ¿En qué horarios ocurren más accidentes?
-- ¿Qué condiciones climáticas están asociadas a una mayor accidentalidad?
+* ¿Qué municipios presentan más accidentes?
+* ¿Qué municipios presentan mayor gravedad?
+* ¿Cuál es la tasa de mortalidad por municipio?
+* ¿En qué horarios ocurren más accidentes?
+* ¿Qué condiciones climáticas están asociadas a una mayor accidentalidad?
 
 ## Estado del proyecto
 
@@ -30,20 +30,45 @@ Fuente de datos: Gerencia de Seguridad Vial de Antioquia.
 
 ### Análisis completados
 
-- [x] Distribución de gravedad
-- [x] Top 10 municipios
-- [x] Tasa de mortalidad
+* [x] Distribución de gravedad
+* [x] Top 10 municipios con más accidentes
+* [x] Tasa de mortalidad
 
 ### Análisis pendientes
 
-- [ ] Accidentes por hora
-- [ ] Accidentes por clima
-- [ ] Mapa geográfico
-- [ ] Conclusiones finales
+* [ ] Accidentes por hora
+* [ ] Accidentes por día de la semana
+* [ ] Accidentes por clima
+* [ ] Mapa geográfico
+* [ ] Dashboard interactivo
+* [ ] Conclusiones finales
 
-- [ ] ## Principales hallazgos
+## Principales hallazgos
 
-- Medellín concentra el mayor número de accidentes reportados.
-- Itagüí presenta la tasa de mortalidad más alta entre los municipios analizados.
-- Guarne muestra una proporción significativa de accidentes fatales.
-- Los accidentes con heridos representan la categoría más frecuente.
+* Medellín concentra el mayor número de accidentes reportados.
+* Itagüí presenta la tasa de mortalidad más alta entre los municipios analizados.
+* Guarne muestra una proporción significativa de accidentes fatales.
+* Los accidentes con heridos representan la categoría más frecuente.
+
+## Visualizaciones
+
+### Distribución de gravedad de los accidentes
+
+(Imagen pendiente)
+
+### Top 10 municipios con más accidentes
+
+(Imagen pendiente)
+
+### Tasa de mortalidad por municipio
+
+(Imagen pendiente)
+
+## Habilidades demostradas
+
+* Limpieza y transformación de datos con Pandas
+* Análisis Exploratorio de Datos (EDA)
+* Visualización de datos con Matplotlib
+* Storytelling con datos
+* Documentación de proyectos en GitHub
+* Análisis de indicadores de seguridad vial
