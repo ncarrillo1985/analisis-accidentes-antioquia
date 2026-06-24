@@ -40,3 +40,10 @@ Fuente de datos: Gerencia de Seguridad Vial de Antioquia.
 - [ ] Accidentes por clima
 - [ ] Mapa geográfico
 - [ ] Conclusiones finales
+
+- [ ] ## Principales hallazgos
+
+- Medellín concentra el mayor número de accidentes reportados.
+- Itagüí presenta la tasa de mortalidad más alta entre los municipios analizados.
+- Guarne muestra una proporción significativa de accidentes fatales.
+- Los accidentes con heridos representan la categoría más frecuente.
