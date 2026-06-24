@@ -2,7 +2,11 @@
 
 ## Objetivo
 
-Analizar los accidentes de tránsito reportados en municipios de Antioquia para identificar patrones de accidentalidad, gravedad y mortalidad.
+Analizar los accidentes de tránsito reportados en municipios de Antioquia para identificar patrones de accidentalidad, gravedad y mortalidad mediante técnicas de análisis exploratorio de datos (EDA).
+
+## Dataset
+
+Fuente de datos: Gerencia de Seguridad Vial de Antioquia.
 
 ## Herramientas utilizadas
 
@@ -10,19 +14,29 @@ Analizar los accidentes de tránsito reportados en municipios de Antioquia para 
 - Pandas
 - Matplotlib
 - Google Colab
+- GitHub
 
-## Principales hallazgos
+## Preguntas de negocio
 
-- Medellín concentra el mayor número de accidentes.
-- Itagüí presenta la mayor tasa de mortalidad.
-- Guarne registra una alta proporción de accidentes fatales.
+- ¿Qué municipios presentan más accidentes?
+- ¿Qué municipios presentan mayor gravedad?
+- ¿Cuál es la tasa de mortalidad por municipio?
+- ¿En qué horarios ocurren más accidentes?
+- ¿Qué condiciones climáticas están asociadas a una mayor accidentalidad?
 
-## Visualizaciones
+## Estado del proyecto
 
-### Top 10 municipios con más accidentes
+🚧 En desarrollo
 
-(imagen)
+### Análisis completados
 
-### Tasa de mortalidad
+- [x] Distribución de gravedad
+- [x] Top 10 municipios
+- [x] Tasa de mortalidad
 
-(imagen)
+### Análisis pendientes
+
+- [ ] Accidentes por hora
+- [ ] Accidentes por clima
+- [ ] Mapa geográfico
+- [ ] Conclusiones finales
